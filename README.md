@@ -1,2 +1,3 @@
 # ASP.NET-MVC-Core
-Learnings and Implementation
+Basic Learnings and Implementation...
+A backend focused Web Application building using .NET Stack
